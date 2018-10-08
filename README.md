@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `npm install`
 
 ## Configure Spotify-Access-Token
-Add your spotify `access-token` [in service file](https://github.com/JamesAndresCM/spoti-app/blob/master/src/app/services/spotify.service.ts#L8). [¿Get Token?](https://developer.spotify.com/documentation/general/guides/app-settings/)
+Add your spotify `access-token` [in service file](https://github.com/JamesAndresCM/spoti-app/blob/master/src/app/services/spotify.service.ts#L8). [Get Token](https://developer.spotify.com/documentation/general/guides/app-settings/)
 
 ## Development server
 
